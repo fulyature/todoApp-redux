@@ -120,4 +120,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out for any questions or feedback!
 
 - **GitHub:** [fulyature](https://github.com/fulyature)
-- **Email:** your-email@example.com
+- **Email:** fulyature@gmail.com
